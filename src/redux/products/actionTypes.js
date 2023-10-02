@@ -1,0 +1,2 @@
+export const GET_PRODUCT = "GET_PRODUCT";
+export const FAILED_PRODUCT_ITEM= "FAILED_PRODUCT_ITEM";

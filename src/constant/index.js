@@ -1,0 +1,1 @@
+export const GET_DATA_ITEMS_URL = "https://dummyjson.com/products"
