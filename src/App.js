@@ -16,7 +16,7 @@ function App () {
 
   return (
     <>
-    <h1>Learing Redux</h1>
+    <h1>Fetched Data</h1>
     </>
   )
 }
